@@ -1,6 +1,6 @@
 
 **`<Desenvolvedora Front-End/>`**
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ALÍCIA+KATHLEEN;I'm+25+years+old;I+from+Brazil;I+Graduated+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+ALÍCIA+KATHLEEN;I'm+19+years+old;I+from+Brazil;I+Graduated+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <p align="left">
     <a href="https://github.com/AliciaKathleen?tab=repositories&sort=stargazers">
