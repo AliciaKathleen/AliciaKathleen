@@ -20,17 +20,6 @@
 ##
 ##
 
-<div>
-  <h3 align="left">Languages & Tools:</h3>
-  <table>
-<tbody>
-    <tr>
-      <th style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</th>
-      <td><img height="40" src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,sass,figma"/></td>
-    </tr>
-  <tbody>
-  </table>
-</div>
 
 ##
 <img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Gif Mario no PC" align="center"></img>
