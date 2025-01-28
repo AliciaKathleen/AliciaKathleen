@@ -18,9 +18,28 @@
 </div>
 
 ##
+## 🛠️ Habilidades
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 
+
+## 📈 Estatísticas do GitHub
+
+<div align="center">
+<img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=AliciaKathleen&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
+<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaKathleen&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
+</div>
+
+---
+
+<p align="center">Vamos colaborar e realizar projetos incríveis juntos!</p>
+
 ##
 
+<img src="https://i.pinimg.com/originals/7e/1e/88/7e1e88834f1fe0573c92f77d888caf6f.gif" alt="Gif mexendo no computador">
 
-##
-<img src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" alt="Gif Mario no PC" align="center"></img>
-![footer](https://capsule-render.vercel.app/api?type=waving&height=100&color=EA1D2C&section=footer)
+
