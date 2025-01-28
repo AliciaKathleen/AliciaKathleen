@@ -12,7 +12,7 @@
 <div>  
   <br>
 
-  <a href="(https://www.linkedin.com/in/aliciakathleen/](https://www.linkedin.com/in/alícia-kathleen-94ab7421a)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alícia-kathleen-94ab7421a)
   [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:aliciakathleenp@gmail.com)
 
 </div>
