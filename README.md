@@ -37,9 +37,6 @@
 ---
 
 <p align="center">Vamos colaborar e realizar projetos incríveis juntos!</p>
-
-##
-
 <img src="https://i.pinimg.com/originals/7e/1e/88/7e1e88834f1fe0573c92f77d888caf6f.gif" alt="Gif mexendo no computador">
 
 
