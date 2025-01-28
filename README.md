@@ -30,9 +30,8 @@
 
 ## 📈 Estatísticas do GitHub
 
-<div align="center">
-<img width=48% src="https://github-readme-streak-stats.herokuapp.com?user=AliciaKathleen&theme=dracula&mode=weekly" alt="GitHub Streak Stats" />
-<img width=48% src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliciaKathleen&show_icons=true&theme=dracula&layout=compact" alt="Top Languages" />
+<div align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=AliciaKathleen&show_icons=true&theme=dracula" alt="AliciaKathleen's GitHub Stats" width="48%" />
 </div>
 
 ---
