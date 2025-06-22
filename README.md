@@ -3,12 +3,12 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Olá!+👋;+Eu+Sou+Alícia+Kathleen!;&color=8e44adFF" />
 </h1>
+[Veja minha animação no LottieFiles](https://app.lottiefiles.com/share/7eadae4c-a924-4848-bd19-fcd530e48c4d)
 
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Sou estudante de Engenharia de Software<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Almejo me tornar uma desenvolvedora FULL-STACK. <br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Atualmente estou aprendendo tecnologias FRONT-END.<br>
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Combinando design e código para criar experiências únicas.
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Sou estudante de Engenharia de Software e Estatística<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Experiência em QA e Suporte de T.I<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Apaixonada por tecnologia<br>
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" alt="code" width="20px"> Almejo me tornar Analista de Dados<br>
 
 <div>  
   <br>
@@ -20,12 +20,15 @@
 
 ##
 ## 🛠️ Habilidades
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 ### 
 
 ## 📈 Estatísticas do GitHub
@@ -36,7 +39,7 @@
 
 ---
 
-<p align="center">Vamos colaborar e realizar projetos incríveis juntos!</p>
-<img src="https://i.pinimg.com/originals/7e/1e/88/7e1e88834f1fe0573c92f77d888caf6f.gif" alt="Gif mexendo no computador">
+<p align="center">Juntos, podemos transformar ideias em soluções incríveis!</p>
+
 
 
