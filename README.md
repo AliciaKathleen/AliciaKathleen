@@ -47,13 +47,3 @@
   </a>
 </div>
 
-## Vamos nos conectar?
-
-<p align="left">
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=contatoaliciakathleen@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/aliciakathleen-/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/al%C3%ADcia-kathleen-94ab7421a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app " alt="LinkedIn"/></a>
-</p>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:e61c9b,100:10002B"/>
